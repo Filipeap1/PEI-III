@@ -1,0 +1,47 @@
+INTRODUÇÃO
+CONCEITOS DE ELETRICIDADE DO DIA A DIA 
+Em virtude do atual cenário global, percebemos que a eletricidade está cada vez mais presente na vida das pessoas e que esse campo tecnológico vem evoluindo constantemente. Por conta disso, é importante que todos tenham noções básicas sobre esse tema, visando minimizar a ocorrência de acidentes e outros problemas. Acreditamos que através do conhecimento a segurança das pessoas e de seu bens pode ser garantida. É necessário ressaltar, que de acordo com um estudo feito pela ABRACOPEL (Associação Brasileira de Conscientização para os Perigos da Eletricidade), no ano de 2021 cerca de 752 acidentes e 402 mortes foram registrados no Brasil. Já no ano de 2022 em concordância com estudos publicados no portal Jornal Hoje mais de 853 acidentes foram registrados no nosso país, deste total, em cerca de 66% deles a vítima foi a óbito em razão de ferimentos graves. Sob a perspectiva dos dados abordados acima, é importante notar que a região brasileira mais afetada, de acordo com a Revista Mundo elétrica, é o Nordeste que engloba cerca de 43% dos caso. Do ponto de vista humanitário esses dados mostram que o panorama é extremamente preocupante e comprova-se a hipótese de que com o acesso adequado a informação alguns acidentes envolvendo eletricidade poderiam ser evitados.  Considerando esses fatores, nosso intuito ao longo deste trabalho é descrever e propor procedimentos com viés educacional a serem feitos e medidas protetivas que visam minimizar os riscos de acidentes elétricos, podendo ser eles por conta de fios mal isolados, falta de dispositivos de proteção, descargas atmosféricas, problemas nas redes de distribuição, entre outros.  
+PROBLEMA
+Todos os dias ocorrem inúmeros acidentes envolvendo eletricidade, nos mais variados ambientes, como: casas, empresas, escolas, entre outros locais... Muitos desses danos pessoais e materiais, poderiam ser evitados se as pessoas envolvidas tivessem conhecimentos básicos sobre a eletricidade. Se faz necessário ressaltar que a informação é a melhor forma de evitar sinistros que levem a perda de bens, ou mesmo vidas, em contradição a desinformação ocasiona hábitos perigosos que passam desapercebidos e podem causar os prejuízos já citados, levando em alguns casos a tragédias de grande proporção, como incêndios por exemplo.
+Quando não há preocupação com a manutenção elétrica em residências,  acaba-se deixando os moradores das mesmas expostos a grandes riscos, sendo que crianças e idosos são mais vulneráveis, mas qualquer um pode sofrer danos graves.
+Desta forma, faz-se necessário, a ampla divulgação de conhecimentos básicos que evitem a ocorrência desses acidentes. 
+OBJETIVOS
+Abordar temas básicos relativos a eletricidade, de forma simples e direta com a intenção de informar sobre procedimentos básicos para evitar acidentes envolvendo eletricidade.
+Medir por meio de uma pesquisa qual o impacto dessas informações perante uma amostragem de cidadãos comuns.
+Analisar os dados obtidos após coleta realizada através da pesquisa de campo.
+Indicar quais foram os impactos do trabalho educativo realizado no mundo real, quando analisados os resultados obtidos por meio da pesquisa.
+Preparar uma cartilha contendo informações, procedimentos básicos e medidas  protetivas para minimizar os riscos de ocorrência de acidentes elétricos.
+
+
+Dimensionamento correto de circuitos
+
+O dimensionamento de cabos elétricos envolve diversos fatores, como:  corrente elétrica, queda de tensão, tipo de condutor, temperatura ambiente, entre outros. Para fazer um dimensionamento correto e seguro, é necessário seguir as diretrizes de proteção pelas normas específicas do país, a norma ABNT NBR 5410.
+
+De uma forma simples seguimos o cálculo em função da formula P = V * I 
+
+Potência = Tensão X Corrente
+
+O que presenciamos em vários locais são pessoas desinformadas, 
+ou sem conhecimento para evitar acidentes.
+
+Para o básico sempre devemos seguir a tabela de cabos proveniente da 
+norma NBR5410 para adequação do circuito elétrico.
+
+Exemplo: Quando temos um chuveiro de Potência 5500w devemos atentar para
+o dimensionamento dos cabos e disjuntor. 
+
+Potência (5500w) = Tensão (127v) X Corrente (I)
+
+Logo temos uma Corrente de 43,3 A.
+Segundo a norma devemos utilizar o cabo de 10mm² e disjuntor aproximado.
+
+Isso ocorre para todos os equipamentos que possuímos.
+Como exemplo de equipamentos que mais consomem, temos: Fornos Elétricos, Secadoras, 
+Aquecedores, Chuveiros, Micro-ondas, Cooktops, Entre outros...
+
+O mesmo ocorre para tomadas, caso o equipamento tenha um maior consumo é necessário
+verificar as especificações para instalação, maioria das Air Fryers necessitam de tomadas 20A,
+sendo assim não se deve utilizar adaptadores.
+
+Seguindo a norma, conceitos básicos, e lendo os manuais conseguimos prevenir acidentes.
+
